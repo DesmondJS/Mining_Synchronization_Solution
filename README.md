@@ -25,3 +25,4 @@ This project is a solution to an Operating System assignment focusing on thread 
 1) Compile the program using gcc -pthread -o mining_solution mining_solution.c.
 2) Run the compiled program with ./mining_solution.
 3) Press CTRL+C to terminate the program.
+ambatukammmm
